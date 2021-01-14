@@ -1,0 +1,3 @@
+#### This is an analysis of news articles from across the globe about the locust invasion in East Africa.
+
+This is my personal project on Understanding Locust Invasion in East Africa using Natural Language Processing(NLP). It is still an ongoing project...
