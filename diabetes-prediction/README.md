@@ -9,9 +9,9 @@ __Workflow:__
 
 The general workflow of the project is as follows:
 
-I. Loading the Data and cleaning
-II. Exploratory Data Analysis
-III. Feature Engineering
-IV. Training the data & Building the Models
-V. Identifying important features
-VI. Predicting the test set.
+- I. Loading the Data and cleaning
+- II. Exploratory Data Analysis
+- III. Feature Engineering
+- IV. Training the data & Building the Models
+- V. Identifying important features
+- VI. Predicting the test set.
